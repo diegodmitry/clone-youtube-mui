@@ -7,12 +7,12 @@ Para realizar o projeto, alguns conhecimentos foram aplicados:
 * Material UI CSS;
 * Media Queries para responsividade;
 * useParams, useState and useEffect;
-* Realizado o deploy ✅ https://clone-youtube-mui.netlify.app/
+* Deploy ✅ https://clone-youtube-mui.netlify.app/
 
 # 💻 Instalando o projeto
 
 1. Clone o repositório:
-` git clone git@github.com:diegodmitry/my-bank.git `
+` git clone git@github.com:diegodmitry/clone-youtube-mui.git `
 
 2. Instale as dependências:
 ` npm install `
