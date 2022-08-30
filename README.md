@@ -23,10 +23,13 @@ Para realizar o projeto, alguns conhecimentos foram aplicados:
 # Imagens
 
 1.
-![Screen 1](https://github.com/diegodmitry/my-bank/blob/master/src/assets/preview1.png?raw=true)
+![Screen 1](https://github.com/diegodmitry/clone-youtube-mui/blob/master/src/1.png?raw=true)
 
 2.
-![Screen 2](https://github.com/diegodmitry/my-bank/blob/master/src/assets/preview2.png?raw=true)
+![Screen 2](https://github.com/diegodmitry/clone-youtube-mui/blob/master/src/2.png?raw=true)
 
 3.
-![Screen 3](https://github.com/diegodmitry/my-bank/blob/master/src/assets/preview3.png?raw=true)
+![Screen 3](https://github.com/diegodmitry/clone-youtube-mui/blob/master/src/3.png?raw=true)
+
+4.
+![Screen 4](https://github.com/diegodmitry/clone-youtube-mui/blob/master/src/4.png?raw=true)
