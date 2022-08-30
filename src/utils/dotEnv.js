@@ -1,0 +1,3 @@
+const REACT_APP_RAPID_API_KEY='67c0ccdcf0mshac3a573088808e1p11e88ajsn50c066ce8f1a'
+
+export default REACT_APP_RAPID_API_KEY;
